@@ -1,0 +1,45 @@
+Help File.txt
+Class: CSE1320-001
+Professor:                Kajal Imon
+TA:                       Praveen Tripathi
+Student:                  Scott Nidell
+Date Due:                 December 1st 11:59pm
+Project Name:             Lab 4 Student Records using structs stored in a Linked List
+
+Approach: Since linked lists are dynamic in nature I knew from previous classes memory needed to be manually allocated via malloc realloc etc. and later freed with free().
+In all approaches the thought of low coupling and a small main function is always feasible. So besides the obvious functions required i also enlisted a sort function and a add student function to clean
+the main and reduce coupling.
+
+Difficulties: Adding was fairly easy delete however was a little bit more difficult.  I found myself deleting the head on accident and then trying to get the next node and receiving a seg fault. This
+rectified by using two temp nodes to clearify it. Using one node to move current deletion and the next temp to keep the link between exsisting and next node. Sorting took some time but the solution was suprisingly
+easy.
+
+Compiler: The compiler used was the one supplied with Visual Studio 2010
+
+Testing: White Box testing: values were inputed knowing the functionality of the program. Boundry testing: adding multiple records then deleting them to zero to test the lower bounds to ensure correct functionality
+
+Instruction:
+
+first the user must input valid numbe rof students greater than 5. Once a valid range is met. the user will input First Name Last Name Score and Zip Code
+
+Once the correct amount of records has been entered the user will be presented with a menu.
+
+Press you number selection and then ente
+		SELECTIONS:
+		1-PRINT RECORDS (prints all student records)
+		2-ADD NEW RECORD (Add new record to the database)
+		3-DELETE RECORD (Deletes record of last name of student)
+		4-SEARCHBY ZIP CODE (Prints records with given zip code)
+		5-SEARCH BY SCORE RANGE (Prints Records in given Range)
+		6-FIND MEDIAN SCORE (Sort records by last name)
+		7-EXIT PROGRAM (closes console and exits program)
+
+The menu is relativley self explainitory. 
+
+1 Will print the current records
+2  Will add a new record prompting for First Name Last Name Score and ZIPCODE
+3 Will delete a record of the record given a sucessful last name
+4 Will print zip codes that match the search criteria
+5 Will search for records in a given range max to min
+6 Wil sort the list in accordance to the score and find the median of the list and print records above the median
+7 Will free all nodes and exit the program.		

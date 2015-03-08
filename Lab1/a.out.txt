@@ -1,0 +1,45 @@
+print by index
+0 1
+1 2
+2 3
+3 5
+4 6
+-------
+print by count
+0 1
+1 2
+2 3
+3 5
+4 6
+-------
+1 counters valued between 3 and 4
+print by index
+0 2
+1 4
+2 6
+3 10
+4 12
+-------
+print by count
+0 2
+1 4
+2 6
+3 10
+4 12
+-------
+2 counters valued between 4 and 6
+print by index
+0 2
+1 4
+2 6
+3 6
+4 4
+-------
+print by count
+0 2
+1 4
+4 4
+2 6
+3 6
+-------
+4 counters valued between 4 and 6

@@ -1,0 +1,78 @@
+﻿Build started 12/3/2014 12:01:02 PM.
+     1>Project "C:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2320\Lab4\Lab4\Lab4.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Lab4.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Lab4.c
+         Lab4.c
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : see declaration of 'scanf'
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(15): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(16): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(17): error C2143: syntax error : missing ';' before 'type'
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(22): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(22): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(23): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(23): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(25): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(25): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(33): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(33): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(38): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(38): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(39): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(39): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(41): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(41): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(42): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(42): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(44): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(44): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(56): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(56): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(58): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(58): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(58): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(58): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(59): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(59): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(59): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(59): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(61): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(61): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(61): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(61): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(62): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(62): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(62): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(62): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(63): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(63): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(63): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(63): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(65): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(65): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(65): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(65): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(66): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(66): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(66): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(66): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(72): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(72): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(73): error C2065: 'succ' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(73): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2065: 'A' : undeclared identifier
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): error C2109: subscript requires array or pointer type
+     1>c:\users\scottn\google drive\schoolwork\uta\2014fall\cse 2320\lab4\lab4\lab4.c(75): fatal error C1903: unable to recover from previous error(s); stopping compilation
+     1>Done Building Project "C:\Users\ScottN\Google Drive\SchoolWork\UTA\2014Fall\CSE 2320\Lab4\Lab4\Lab4.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.12
